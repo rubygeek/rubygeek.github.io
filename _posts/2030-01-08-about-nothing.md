@@ -6,8 +6,6 @@ categories: [nothing]
 tags: [nothing, ramble]
 ---
 
-## A post About Nothing
-
 I recently watched the Seinfield eposide where they pitch their show to some procducers, "A Show about Nothing". I had heard about this term boefore but didn't really know what it meant.
 
 I used to blog alot about ruby, clojure, a little javascript and some time mangement things I used to do. For some reason I stopped, but I want to start again.
