@@ -1,14 +1,24 @@
 <html>
 <head>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onloadTurnstileCallback" defer></script>
+
+
 </head>
 <body>
-<div class="cf-turnstile" data-sitekey="0x4AAAAAAAJ5XO7IFh_yDRh8" data-callback="javascriptCallback"></div>
+<div id="example-container"></div>
 <script>
-function javascriptCallback() {
-console.log("taco")
-}
 
-</script
+window.onloadTurnstileCallback = function () {
+    turnstile.render('#example-container', {
+        sitekey: '0x4AAAAAAAKCLxZgXfMRIc0d',
+        callback: function(token) {
+            console.log(`Challenge Success ${token}`);
+        },
+    });
+};
+
+
+</script>
 
 
 
