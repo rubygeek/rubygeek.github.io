@@ -11,7 +11,7 @@ tags: [basb]
 
 I had heard this phrase around the internet and was intrigued. A second brain? Sign me up! I watched some youtube videos on it and then found out there was a book. I checked it out and it is basically a way of organizing your notes so you can find them easier. I take alot of notes and sometimes I don't remember where I put hem.
 
-![Building a Second Brain](./images/basb.jpg)
+![Building a Second Brain](images/basb.jpg)
 
 <a target="_blank" href="https://www.amazon.com/Building-Second-Brain-Organize-Potential-ebook/dp/B09LVVN9L3/ref=sr_1_9?dib=eyJ2IjoiMSJ9.gs1yGGbU0lnJn7Z8d7Q88yKJhm-3xqT1Ecvnr0-BEdwetTfKZ5y5U-8sVGeRI-F-QT210bkLK4fk_cdc4N3qyC_s417QMcxXgFdEVgBWaeUVfDZI6ZVWmNPLpvUHprpZocmO0NUQButbLqSPtyZwGtArvwtEIGwjbuJhiA4ySh3Wfca-4W75J8qAnYrNXHpL8mTn3QqPhM29hFrNB2a7fNbztJ6XtuZyGqclVlvb-5E.hRzjx_B9L9jUDDqXQ3aQUE3SaurZ9B00HLdDYXpuS9c&amp;dib_tag=se&amp;keywords=building+a+second+brain+workbook&amp;qid=1708998032&amp;sr=8-9&_encoding=UTF8&tag=rubygeek02-20&linkCode=ur2&linkId=23916d7278e4f3adf23332e5928f98b7&camp=1789&creative=9325">Building a Second Brain</a>
 
