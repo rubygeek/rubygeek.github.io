@@ -38,5 +38,5 @@ I had heard this phrase around the internet and was intrigued. A second brain? S
 
 And having it written down, frees my mind up from trying to remember it.
 
-# Capture what resonates
+# Capture what resonates!!
 
