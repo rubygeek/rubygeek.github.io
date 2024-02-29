@@ -23,7 +23,7 @@ Tools to get familiar with:
 * [Ghidra](https://ghidra-sre.org/)
 * [Ida FREE](https://hex-rays.com/ida-free/)
 * [Radare2](https://github.com/radareorg/radare2)
-* [GNU Dbg](https://www.sourceware.org/gdb/)
+* [GDB: The GNU Project Debugger](https://www.sourceware.org/gdb/)
 
 
 ## Syntax Styles
