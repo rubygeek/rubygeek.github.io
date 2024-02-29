@@ -32,9 +32,9 @@ Tools to get familiar with:
 
 * first operand is the `destination`, and the second operand is the `source`
 * No prefix on registers or immediates
-* Immedates are suffixed with 'h' and 'b'
-* If the first hexadecimal digit is a letter then the value is prefixed by a '0'.
-* Base registers use [ ]
+* Immedates are suffixed with `h` and `b`
+* If the first hexadecimal digit is a letter then the value is prefixed by a `0`.
+* Base registers use `[ ]`
 
 ```
 addl eax, [ebx]
@@ -47,7 +47,7 @@ mov eax,1
 * Registers prefixed with `%`
 * Immediates prefixed with `$`, hex is prefixed with 0x
 * First operand is the `source`, and the second operand is the `destination`
-* Base registers use ( )
+* Base registers use `( )`
 
 ```
 addl (%ebx), %eax
