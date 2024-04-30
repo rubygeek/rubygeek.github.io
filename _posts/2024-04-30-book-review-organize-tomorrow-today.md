@@ -10,10 +10,7 @@ tags: [productivity]
 
 Written by Dr. Jason Selk and Rom Bartow (with Mathew Rudy)
 
-I got this book after reading Relentless Solution Focus written by Dr. Jason Selk and this seemed more focused on work. The chapters are short and they give several examples of different occupations and how they implemented the principles in each chapter.
-
 After being captivated by Dr. Selk's "Relentless Solution Focus," (I read it 4 times) I picked up "Organize Tomorrow Today," anticipating a read that leans more towards enhancing work productivity. The book delivers its wisdom in bite-sized chapters, replete with anecdotes from various professions, demonstrating the application of its key principles.
-
 
 Basic Concepts of the book:
 
