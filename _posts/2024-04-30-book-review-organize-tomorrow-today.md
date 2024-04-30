@@ -29,9 +29,9 @@ I'll probably talk about some of the other chapters later, but I want to start w
 
 A quote from the first chapter captures the essence of the chapter:
 
-```
-> Highly successful people never get it all done in any one given day -- but they always get the most important things done each day.
-```
+> Highly successful people never get it all done 
+> in any one given day -- but they always 
+> get the most important things done each day.
 
 The authors proposes a simple yet powerful strategy: identify three pivotal tasks for the day, with one designated as the non-negotiable "MUST DO." While to-do lists are commonplace, the book introduces the concept of assigning a specific completion time to each of the top three tasks. This approach has propelled me to tackle tasks I was reluctant to start, often realizing that they took less time than expected.
 
